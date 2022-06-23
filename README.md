@@ -1,6 +1,8 @@
 ## Hey, I’m Chase 🖥
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chskzl&layout=compact)](https://github.com/chskzl/github-readme-stats)
+<img align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=chskzl&show_icons=true&hide=stars&theme=vue"/>
+<img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chskzl&layout=compact&hide=shell&langs_count=6&theme=vue"/>
+
 
 Favorite Langs:
 
