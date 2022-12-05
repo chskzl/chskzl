@@ -7,7 +7,7 @@
 
 About Me:
 
-- 23 year old developer living in Oregon
+- 24 year old developer living in Oregon
 - experience with web applications, linux, and scripting
 - want to learn more about functional programming and embedded software
 
